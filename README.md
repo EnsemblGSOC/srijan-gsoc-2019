@@ -2,7 +2,7 @@
 ### Mentors : [Daniel Zerbino](https://www.ebi.ac.uk/about/people/daniel-zerbino), [Elspeth Bruford](https://www.ebi.ac.uk/about/people/elspeth-bruford), [Ruth Seal](https://www.ebi.ac.uk/about/people/ruth-seal)
 
 ### Project Title  
-Applying machine learning techniques to characterising and naming lncRNA genes.
+Applying machine learning techniques to characterising and naming lncRNA genes
 
 ![](https://media1.tenor.com/images/8ab51cca650124bdbd211ce2e8fb0714/tenor.gif?itemid=10625836)
 
