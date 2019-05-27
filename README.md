@@ -21,3 +21,8 @@ wide range of functions in cellular and developmental processes. There are many
 specialized lncRNA databases (like RefSeq, GENCODE, Ensembl, SGD, tair). We will use
 Machine Learning techniques to highlight and compare two sets of calls (of Ensembl /
 GENCODE and RefSeq) and determine which calls are incorrect.
+
+## Dependencies
+json<br/>
+Pandas<br/>
+Numpy
