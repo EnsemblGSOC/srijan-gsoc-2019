@@ -31,8 +31,35 @@ Contains two folders namely: <br/>
 ### Python
 json<br/>
 Pandas<br/>
-Numpy
+Numpy<br/>
+(more to be added soon)
+
+## Data
+1. Data obtained from Ensembl can be found [here](https://github.com/EnsemblGSOC/srijan-gsoc-2019/tree/master/Ensembl-analysis/data_acquisition). <br/>
+
+2. Data obtained from RefSeq can be found here (to be added). <br/>
+
+
 
 ## Research papers / References
+#### Some of the papers which have been published in the similar domain are given below: <br/>
+1. [A Deep Learning Framework for Robust and Accurate Prediction of ncRNA-Protein](https://drive.google.com/file/d/1dNlT_ed3bXUwNlfDRM8BmV4bGduzgLEc/view?usp=sharing)<br/>
+
+2. [Accurate prediction of protein lncRNA interactions by diffusion and HeteSim features](https://drive.google.com/file/d/11Bqi1AdLIKPDWxeHIvURuyX-nN3kwZOj/view?usp=sharing)<br/>
+
+3. [CRlncRC: a machine learning-based method for cancer-related Lnc RNA identification using integrated features](https://drive.google.com/file/d/1ggXskSpbneFSw76R7T5giPW6PiwuyJMw/view?usp=sharing)<br/>
+
+4. [LncADeep](https://drive.google.com/file/d/1DWC2s4rQulZQUPQFU7yhPtQtfgOvnELg/view?usp=sharing)<br/>
+
+5. [lncRNAnet: Long Non-coding RNA Identification using Deep Learning](https://drive.google.com/file/d/1-4eDyLmFit0NODxf-TWwLpyLY2gcL3HI/view?usp=sharing)<br/>
+
+6. [Long Noncoding RNA Identification: Comparing Machine Learning Based Tools for Lnc Transcripts Discrimination](https://drive.google.com/file/d/15kOvyRAbIqDzwD6G9rqJMO-J3GW-pyRm/view?usp=sharing)<br/>
+
+7. [Machine Learning Based LncRNA Function Prediction](https://drive.google.com/file/d/1GybUbLfF5U1bf9-J4YOoOxoqyn7whIm3/view?usp=sharing)<br/>
+
+8. [Prediction of LncRNA Subcellular Localization with Deep Learning from Sequence Features](https://drive.google.com/file/d/11Mi3UnXAc1PUWNQW1RXVDdQIqQnXi_dD/view?usp=sharing)<br/>
+
+## Medium blogs
+(coming soon)
 
 ## Acknowledgements
