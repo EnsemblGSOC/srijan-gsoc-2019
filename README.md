@@ -63,3 +63,12 @@ Numpy<br/>
 (coming soon)
 
 ## Acknowledgements
+1. [Daniel Zerbino](https://www.ebi.ac.uk/about/people/daniel-zerbino)<br/>
+
+2. [Elspeth Bruford](https://www.ebi.ac.uk/about/people/elspeth-bruford)<br/>
+
+3. [Ruth Seal](https://www.ebi.ac.uk/about/people/ruth-seal)<br/>
+
+4. [Ensembl](https://asia.ensembl.org/index.html) admins, helpdesk and the whole community <br/>
+
+5. [GSoC](https://summerofcode.withgoogle.com/) organizers, managers and Google 
