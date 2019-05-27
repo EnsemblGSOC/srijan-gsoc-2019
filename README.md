@@ -22,7 +22,7 @@ specialized lncRNA databases (like RefSeq, GENCODE, Ensembl, SGD, tair). We will
 Machine Learning techniques to highlight and compare two sets of calls (of Ensembl /
 GENCODE and RefSeq) and determine which calls are incorrect.
 
-## Specifications of the parent directory
+## Specifications of the parent directory (srijan-gsoc-2019)
 Contains two folders namely: <br/>
 1. Ensembl-analysis - Where scripts for making analysis and data collected from Ensembl can be found.
 2. RefSeq-analysis - Where scripts for making analysis and data collected from RefSeq can be found.
