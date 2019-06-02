@@ -35,7 +35,7 @@ Numpy<br/>
 (more to be added soon)
 
 ## Data
-1. Data obtained from Ensembl can be found [here](https://github.com/EnsemblGSOC/srijan-gsoc-2019/tree/master/Ensembl-analysis/data_acquisition). <br/>
+1. Data obtained from Ensembl can be found [here](https://github.com/EnsemblGSOC/srijan-gsoc-2019/tree/master/Ensembl-analysis). <br/>
 
 2. Data obtained from RefSeq can be found here (to be added). <br/>
 
