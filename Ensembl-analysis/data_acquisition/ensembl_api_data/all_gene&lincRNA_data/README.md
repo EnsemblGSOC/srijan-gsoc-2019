@@ -1,7 +1,7 @@
 ## Info for this directory : -
-1. All genes (for homo_sapiens) data extracted for 58884 gene IDs
-2. All lincRNA data extracted for 7690 lincRNA gene IDs
-3. All lincRNA data extracted for 13666 lincRNA transcript IDs
+1. All genes (for homo_sapiens) data extracted for 58,884 gene IDs
+2. All lincRNA data extracted for 7,690 lincRNA gene IDs
+3. All lincRNA data extracted for 13,666 lincRNA transcript IDs
 
 ## Download links:-
 1. Homo_sapiens Ensembl 96 gff3 file (which contains all numeric data) can be found [here](http://ftp.ensembl.org/pub/release-96/gff3/homo_sapiens/Homo_sapiens.GRCh38.96.gff3.gz)
