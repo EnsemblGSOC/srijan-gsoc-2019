@@ -60,7 +60,9 @@ Numpy<br/>
 8. [Prediction of LncRNA Subcellular Localization with Deep Learning from Sequence Features](https://drive.google.com/file/d/11Mi3UnXAc1PUWNQW1RXVDdQIqQnXi_dD/view?usp=sharing)<br/>
 
 ## Medium blogs
-(coming soon)
+1. [GSoC Journey Part 1](https://medium.com/@verma.srijan/gsoc-journey-part-1-ba251b69bede)<br/>
+
+2. [GSoC Journey Part 2- The Problem Statement](https://medium.com/@verma.srijan/gsoc-journey-part-2-the-problem-statement-55a2293678d0)<br/>
 
 ## Acknowledgements
 1. [Daniel Zerbino](https://www.ebi.ac.uk/about/people/daniel-zerbino)<br/>
