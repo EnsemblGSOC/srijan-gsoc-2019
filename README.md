@@ -32,6 +32,9 @@ Contains two folders namely: <br/>
 json<br/>
 Pandas<br/>
 Numpy<br/>
+Biopython<br/>
+Pyfasta<br/>
+gffpandas<br/>
 (more to be added soon)
 
 ## Data
