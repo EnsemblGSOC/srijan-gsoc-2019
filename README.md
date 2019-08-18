@@ -35,7 +35,7 @@ Numpy<br/>
 Biopython<br/>
 Pyfasta<br/>
 gffpandas<br/>
-(more to be added soon)
+sklearn<br/>
 
 ## Data
 1. Data obtained from Ensembl can be found [here](https://github.com/EnsemblGSOC/srijan-gsoc-2019/tree/master/Ensembl-analysis). <br/>
