@@ -1,1 +1,1 @@
-### Use cleaned_test_file.csv as testing data.
+### Use cleaned_test_file.csv as test dataset.
