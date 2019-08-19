@@ -1,0 +1,1 @@
+### All sorted lncRNA csv files (sorted = chr region arranged in ascending order and NT, NW seq_regions been removed) can be found [here](https://drive.google.com/drive/folders/12m6PNBTb6eUwuxC612KHM2PiW1xYmVXS?usp=sharing)
