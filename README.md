@@ -23,10 +23,11 @@ Machine Learning techniques to highlight and compare two sets of calls (of Ensem
 GENCODE and RefSeq) and determine which calls are incorrect.
 
 ## Specifications of the parent directory (srijan-gsoc-2019)
-Contains two folders namely: <br/>
-1. Ensembl-analysis - Where scripts for making analysis and data collected from Ensembl can be found.
-2. RefSeq-analysis - Where scripts for making analysis and data collected from RefSeq can be found.
-
+Contains 4 folders namely: <br/>
+1. Ensembl-analysis - Where scripts for making analysis and data collected from Ensembl can be found.<br/>
+2. RefSeq-analysis - Where scripts for making analysis and data collected from RefSeq can be found.<br/>
+3. feature_selection - Where scripts for creating features can be found.<br/>
+4. ML - Where scripts for making ML analysis on data collected (with their features) can be found.<br/>
 ## Dependencies
 ### Python
 json<br/>
