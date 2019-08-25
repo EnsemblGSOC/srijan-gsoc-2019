@@ -29,7 +29,7 @@ Contains 4 folders namely: <br/>
 3. feature_selection - Where scripts for creating features can be found.<br/>
 4. ML - Where scripts for making ML analysis on data collected (with their features) can be found.<br/>
 ## Dependencies
-### Python
+### Python 3.6
 json<br/>
 Pandas<br/>
 Numpy<br/>
