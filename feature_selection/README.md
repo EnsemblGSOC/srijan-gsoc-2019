@@ -5,7 +5,8 @@
 #### 4) Similarly, for others. <br/>
 <br/>
 <br/>
-### Details for rest of the features given below: (Thanks a ton for these, [Ruth]() !)
+
+### Details for rest of the features given below: (Thanks a ton for these, [Ruth](https://www.ebi.ac.uk/about/people/ruth-seal) !)<br/>
 Locus 1 from Gencode has biotype long intergenic RNA
 
 Locus 2 from RefSeq has biotype ncRNA
@@ -46,4 +47,5 @@ strand.
 
 No transcript from locus 1 or 2 is within 500 nucleotides of a second 
 lincRNA gene on the SAME strand (opposite stand does not matter)
+No transcript from locus 1 or 2 is within 1 kb of the extent of a 
 
