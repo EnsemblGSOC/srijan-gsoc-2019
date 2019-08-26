@@ -3,8 +3,9 @@
 #### 2) _v9 directory contains all the features (overlap, orf, _v1, _v2...,_v9), except _v10.<br/>
 #### 3) _v8 directory contains all the features (overlap, orf, _v1, _v2...,_v8), except _v9 and _v10.<br/>
 #### 4) Similarly, for others. <br/>
-
-Details for rest of the features given below: (Thanks a ton for these, [Ruth]() !)
+<br/>
+<br/>
+### Details for rest of the features given below: (Thanks a ton for these, [Ruth]() !)
 Locus 1 from Gencode has biotype long intergenic RNA
 
 Locus 2 from RefSeq has biotype ncRNA
@@ -34,7 +35,7 @@ coding gene annotated by Gencode or RefSeq on the opposite strand
 
 No transcript from locus 1 or 2 overlaps the genomic span of a protein 
 coding gene annotated by Gencode or RefSeq on the same strand (including 
-UTRs, exons and introns) (already donoe)
+UTRs, exons and introns) 
 
 No transcript from locus 1 or 2 is within 1 kb of the extent of a 
 protein coding gene annotated by Gencode or RefSeq on the same strand
