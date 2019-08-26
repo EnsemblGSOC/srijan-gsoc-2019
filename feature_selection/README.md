@@ -47,5 +47,6 @@ strand.
 
 No transcript from locus 1 or 2 is within 500 nucleotides of a second 
 lincRNA gene on the SAME strand (opposite stand does not matter)
-No transcript from locus 1 or 2 is within 1 kb of the extent of a 
+
+## If all of the above are answered Yes (or True), save 1. else, save 0
 
