@@ -70,6 +70,8 @@ sklearn<br/>
 
 3. [GSoC Journey Part 3- Data Analysis](https://medium.com/@verma.srijan/gsoc-journey-part-3-data-analysis-d9c1873703fc)<br/>
 
+4. [GSoC Journey Part 4- Final Report and Summary](https://medium.com/@verma.srijan/gsoc-journey-part-4-final-report-and-summary-ae9c4e4c7718)<br/>
+
 ## Acknowledgements
 1. I would like to thank [Daniel Zerbino](https://www.ebi.ac.uk/about/people/daniel-zerbino) for taking the time to mentor me and for providing invaluable suggestions. I truly appreciate his constant trust and encouragement!<br/>
 
